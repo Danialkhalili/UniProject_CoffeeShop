@@ -38,7 +38,3 @@ Otherwise, no discount is applied.
 - All orders are stored in memory.
 - Orders are deleted when the program is closed.
 - No external libraries are required.
-
-## Author
-
-Created as a Python programming course project.
